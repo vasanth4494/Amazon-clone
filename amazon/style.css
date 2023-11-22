@@ -1,0 +1,101 @@
+* {
+    list-style: none;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    display: flex;
+}
+
+.main-1{
+    padding-left: 25px;
+}
+.left-1{
+    width: 20%;
+    height: 1200px;
+}
+
+.right-1{
+    width: 80%;
+    height: 1200px;
+}
+
+.card-2 {
+    margin-left: 10px;
+    position: relative;
+    margin-top: 30px;
+}
+
+.fa-solid {
+    color: orange;
+    font-size: 18px;
+}
+
+.fa-regular{
+    color: orange;
+    font-size: 18px;
+}
+
+.heads:hover{
+    color: goldenrod;
+}
+
+.left:hover{
+    color: goldenrod;
+}
+
+.row-2 {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    margin-top: 20px;
+}
+
+p {
+    display: inline-block;
+}
+
+.left{
+    padding-left: 8px;
+}
+
+.bt{
+    width: 100%;
+    height: 50px;
+    background: #37475A;
+    color: white;
+}
+
+button:hover{
+    background: #252e39;
+}
+
+.foot{
+    width: 100%;
+    height: 600px;
+    background: #37475A;
+    color: white;
+}
+
+
+.parent-footer {
+    display: flex;
+}
+
+.child-footer {
+    border: none;
+    width: 25%;
+    height: 500px;
+}
+
+ul li {
+    margin: 20px;
+    color: white;
+}
+
+.inline{
+    display: inline-block;
+}
+
